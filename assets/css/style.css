@@ -18,7 +18,8 @@ body {
 ==================================================*/
 .domain-head {
     font-size:50px;
-    font-weight:900;
+    font-weight:500;
+	margin: 100px auto;
     display:block;
 }
 
@@ -34,7 +35,7 @@ body {
     background:#009aff;
     color:#fff; 
     text-align:center;
-    margin:40px 0px 0px 0px;
+    margin:20px 0px 0px 0px;
     padding:40px;
     font-size:40px;
 }
