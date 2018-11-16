@@ -75,3 +75,28 @@ body {
     font-size:15px;
     text-decoration:none;
 }
+
+/*New*/
+.topBJ{
+	width: 100%;
+	height: 150px;
+	background:#009aff;
+    color:#fff; 
+    text-align:center;
+    margin:10px 0px 0px 0px;
+    padding: 40px 0 40px 35%;
+	
+}
+
+.topBJ li{
+	width: 110px;
+	height: 10px;
+	float:left;
+	line-height: 33px;
+	color:rgba(251,248,248,1.00);
+	list-style: none;
+	margin-top: 15px;
+	font-size:40px;
+	text-align: center;
+}
+
